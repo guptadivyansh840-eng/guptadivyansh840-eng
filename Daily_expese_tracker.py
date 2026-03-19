@@ -1,7 +1,7 @@
 ```python
 print("*************** Expenses Tracker ******************")
 
-d={}
+d={} #d= expenses
 
 ExpenseType=input("enter your expense type=")
 m=int(input("expenditure on it="))
@@ -20,8 +20,8 @@ while True:
 
 print("\nYour expenditure type and expense is as follows:")
 
-k=list(d.keys())
-v=list(d.values())
+k=list(d.keys())#k= keys
+v=list(d.values())#v = values
 
 print(k)
 print(v)
