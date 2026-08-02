@@ -40,6 +40,3 @@ Python
 
 ##  Contact
 Email- guptadivyansh840@gmail.com
-
-
-* Email: your-email-here
