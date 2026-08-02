@@ -1,6 +1,6 @@
 ### Hi, I'm Divyansh Gupta 
 
-Salesforce professional with hands-on experience across **Administration and Development**, complemented by a background in **Python and SQL**.
+Salesforce intern with hands-on experience across **Administration and Development**, complemented by a background in **Python and SQL**.
 
 - **Apex Development** — OOP, Triggers, Batch/Queueable/Future/Schedulable Apex, SOQL/SOSL, Governor Limits, Apex Testing
 - **Automation** — Lightning Flows (Screen, Autolaunched, Record-Triggered), Approval Processes
