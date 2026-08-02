@@ -1,14 +1,14 @@
 
-# 👋 Hi, I'm Divyansh Gupta
+# Hi, I'm Divyansh Gupta
 
-## 💻 About Me
+##  About Me
 
 I am a self-taught Apex programmer with hands on experience in writing Synchronous and Asynchronous codes.
 I enjoy working with data, building projects, and continuously improving my skills.
 
 ---
 
-## 🚀 Skills
+##  Skills
 
 
 * Apex
@@ -25,18 +25,18 @@ I enjoy working with data, building projects, and continuously improving my skil
 
 ---
 
-## 📂 Projects
+##  Projects
+*DuplicateContact(Synchronous)
+*StaleLeadCleanups
 
-* 📊 Sales Data Analysis (Pandas + Visualization)
-* 🧮 Student Performance Analysis (NumPy)
-* 💸 Daily Expense Tracker (Python)
-* 🛒 Shopping Mall Management System
-* 🧠 Parenthesis Balancing Checker
-* 🏧 ATM Simulation (Tkinter GUI)
+*  Sales Data Analysis (Pandas + Visualization)
+*  Student Performance Analysis (NumPy)
+
+
 
 ---
 
-## 📫 Contact
+##  Contact
 Email- guptadivyansh840@gmail.com
 
 
