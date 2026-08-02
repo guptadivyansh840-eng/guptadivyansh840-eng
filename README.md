@@ -10,12 +10,18 @@ I enjoy working with data, building projects, and continuously improving my skil
 
 ## 🚀 Skills
 
-* Python
+
+* Apex
+* Synchronous and Asynchronous apex
+* Api Callouts
+*Test Classes
+*Calling apex from flow
+* Pyhton
 * Pandas
 * NumPy
 * Matplotlib
-* Basic Tkinter
 * SQL (Learning)
+
 
 ---
 
