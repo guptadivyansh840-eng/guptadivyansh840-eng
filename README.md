@@ -26,8 +26,10 @@ I enjoy working with data, building projects, and continuously improving my skil
 ---
 
 ##  Projects
+APEX
 *DuplicateContact(Synchronous)
 *StaleLeadCleanups
+Python
 
 *  Sales Data Analysis (Pandas + Visualization)
 *  Student Performance Analysis (NumPy)
