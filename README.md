@@ -3,7 +3,7 @@
 
 ## 💻 About Me
 
-I am a self-taught Python programmer with hands-on experience in data analysis and problem solving.
+I am a self-taught Apex programmer with hands on experience in writing Synchronous and Asynchronous codes.
 I enjoy working with data, building projects, and continuously improving my skills.
 
 ---
