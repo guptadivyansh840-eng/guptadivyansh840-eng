@@ -16,7 +16,7 @@ I enjoy working with data, building projects, and continuously improving my skil
 * Api Callouts
 *Test Classes
 *Calling apex from flow
-* Pyhton
+* Python
 * Pandas
 * NumPy
 * Matplotlib
